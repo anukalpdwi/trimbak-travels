@@ -65,7 +65,7 @@ const Header: React.FC = () => {
 
         {/* Call Button */}
         <a 
-          href="tel:+919876543210" 
+          href="tel:+918587921397" 
           className="hidden md:flex items-center px-4 py-2 bg-secondary-500 text-white rounded-full hover:bg-secondary-600 transition-colors duration-300"
         >
           <Phone size={18} className="mr-2" />
