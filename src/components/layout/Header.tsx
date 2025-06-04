@@ -34,7 +34,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link to="/" className="flex items-center">
           <span className={`text-2xl font-bold ${isScrolled ? 'text-primary-600' : 'text-white'}`}>
-            Trambak Travels
+            Nashik Travels
           </span>
         </Link>
 

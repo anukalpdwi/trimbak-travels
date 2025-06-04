@@ -27,7 +27,7 @@ const AboutSection: React.FC = () => {
           {/* Content */}
           <div>
             <div className="mb-6">
-              <h2 className="text-3xl md:text-4xl font-bold mb-4">About Trambak Travels</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-4">About Nashik Travels</h2>
               <div className="w-20 h-1 bg-secondary-500 mb-6"></div>
               <p className="text-lg text-gray-600 mb-6">
                 Welcome to Trimbak Travels, your trusted travel partner based in the spiritual town of Trimbakeshwar, Nashik. For over two decades, we've been providing exceptional travel experiences to visitors exploring the cultural and spiritual heritage of Maharashtra and beyond.

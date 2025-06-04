@@ -37,7 +37,8 @@ const Hero: React.FC = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-2xl">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4 leading-tight">
-              Best outstation taxi service in Trimbakeshwar,<span className="text-secondary-400"> Nashik 🚗</span>
+              Book Best Taxi from Nashik,
+<span className="text-secondary-400">to All Over India. 📍</span>
             </h1>
             <p className="text-xl text-white mb-8">
               Experience the perfect blend of spirituality, culture, and natural beauty with our customized tour packages.

@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div>
-            <h3 className="text-2xl font-bold mb-4">Trimbak Travels</h3>
+            <h3 className="text-2xl font-bold mb-4">Nashik Travels</h3>
             <p className="mb-4 text-gray-300">
               Your trusted travel partner for exploring Trimbakeshwar, Nashik, and beyond. We offer personalized tour packages, taxi services, and unforgettable travel experiences.
             </p>
@@ -70,7 +70,7 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center">
                 <Mail size={20} className="mr-3 text-secondary-400" />
-                <a href="mailto:info@trimbaktravels.com" className="text-gray-300 hover:text-white transition-colors duration-300">info@trimbaktravels.com</a>
+                <a href="mailto:info@trimbaktravels.com" className="text-gray-300 hover:text-white transition-colors duration-300">nashiktravelsagency@gmail.com</a>
               </li>
             </ul>
           </div>
