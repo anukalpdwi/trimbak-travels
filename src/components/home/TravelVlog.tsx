@@ -5,8 +5,8 @@ const TravelVlog: React.FC = () => {
   const videos = [
     {
       id: 1,
-      url: 'https://www.youtube.com/embed/pwNeRmVpO4A',
-      title: 'Exploring Maha Kumbh Prayagraj'
+      url: 'https://www.youtube.com/embed/X7LHzTrEfW0',
+      title: 'Nashik to Shirdi Road Trip'
     },
     {
       id: 2,
@@ -15,8 +15,8 @@ const TravelVlog: React.FC = () => {
     },
     {
       id: 3,
-      url: 'https://www.youtube.com/watch?v=example3',
-      title: 'Golden Triangle Tour Highlights'
+      url: 'https://www.youtube.com/embed/ZMt6VjHoYMo',
+      title: 'Nashik to Pune Road Trip'
     }
   ];
 
