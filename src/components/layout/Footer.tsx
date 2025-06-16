@@ -88,6 +88,31 @@ const Footer: React.FC = () => {
             </div>
           </div>
         </div>
+
+        <div className="text-center mb-4">
+          Developed by:{" "}
+          <a
+            href="https://wa.me/9131883433"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline hover:text-primary-400"
+          >
+            Anukalp Dwivedi
+          </a>
+          <br />
+          The Goldenbird Tech{" "}
+          <a
+            href="https://thegoldenbird.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline hover:text-primary-400"
+          >
+            [Visit]
+          </a>
+          <div className="mt-2 font-semibold" style={{ color: "#FF9933" }}>
+            वेबसाइट बनाने और गूगल Ad चलाने के लिए हमसे संपर्क करें: +91 9131883433
+          </div>
+        </div>
       </div>
     </footer>
   );
